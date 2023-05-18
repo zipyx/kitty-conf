@@ -47,3 +47,7 @@ The entire structure looks like the below (additional files are sample + debug).
 ```
 
 More instructions to come in the near future.
+
+## Environment
+
+The setup I have at the moment is due to the fact that `alacritty` did not have certain options + ligature functionality along with performance on certain parts that I decided `kitty` was the best way to go (at least for now). Feel free to have a look at my `alacritty` setup, for now at least - I'll be using `kitty` until I see the need to make changes.
